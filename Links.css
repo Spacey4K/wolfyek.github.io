@@ -41,6 +41,8 @@
   padding: 13px 62px 13px 61px;
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-btn-4 {
   border-style: solid;
   font-weight: 700;
