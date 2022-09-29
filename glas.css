@@ -11,6 +11,8 @@
   margin: 262px auto 0;
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-text-2 {
   font-weight: 400;
   font-style: italic;
