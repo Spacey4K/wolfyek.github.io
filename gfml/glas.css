@@ -18,7 +18,7 @@
   margin: 20px auto 0;
 }
 
-gfml.html
+html, body {margin: 0; height: 100%; overflow: hidden}
 
 .u-section-1 .u-btn-1 {
   letter-spacing: 1px;
