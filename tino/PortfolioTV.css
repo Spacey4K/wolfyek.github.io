@@ -29,6 +29,8 @@
   height: auto;
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-carousel-item-1 {
   margin-right: 0;
 }
