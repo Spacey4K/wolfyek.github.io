@@ -1,0 +1,185 @@
+ .u-section-1 {
+  background-image: url("/images/sculpture_bw_work_of_art_124099_3840x2400.jpg");
+  background-position: 50% 50%;
+  min-height: 1373px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 107px auto 0 calc(((100% - 1140px) / 2) + 398px);
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  width: 532px;
+  margin: 7px auto 0 calc(((100% - 1140px) / 2) + 286px);
+}
+
+.u-section-1 .u-gallery-1 {
+  height: 615px;
+  width: 577px;
+  margin: 10px auto 0 calc(((100% - 1140px) / 2) + 263px);
+}
+
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+.u-section-1 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-1 .u-carousel-item-1 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-item-2 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-item-3 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-item-4 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-control-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-1 .u-carousel-control-2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: auto;
+  right: 10px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 32px;
+  min-width: 16px;
+  margin: 17px auto 60px calc(((100% - 1140px) / 2) + 538px);
+}
+
+.u-section-1 .u-icon-1 {
+  height: 32px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1132px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 940px) / 2) + 328px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 940px) / 2) + 286px);
+  }
+
+  .u-section-1 .u-gallery-1 {
+    margin-left: calc(((100% - 940px) / 2) + 263px);
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-left: calc(((100% - 940px) / 2) + 538px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 867px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 720px) / 2) + 251px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 720px) / 2) + 219px);
+  }
+
+  .u-section-1 .u-gallery-1 {
+    margin-left: calc(((100% - 720px) / 2) + 143px);
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-left: calc(((100% - 720px) / 2) + 538px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 650px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 540px) / 2) + 188px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 540px) / 2) + 164px);
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 540px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-left: calc(((100% - 540px) / 2) + 508px);
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 409px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: calc(((100% - 340px) / 2) + 118px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 340px) / 2) + 103px);
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-left: calc(((100% - 340px) / 2) + 308px);
+  }
+}
